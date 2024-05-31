@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm studying computer engineering for my Bachelor of technology at Silver Oak University. Android programming experience of one year, silver medalist in the NPTEL course \"Programming in Java\" and core member of GDSC Silver Oak University.\n" +
+  "\n" +
+  "I'm getting ready for the Google Summer of Code 23. interested in the creation of Android applications, back-end systems, cloud computing, Java, Artificial intelligence, Machine learning, robotics, electrical devices, and graphic design.IITGN.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Android",
+  "Compose",
+  "Ktor",
+  "AWS",
+  "Kotlin Multiplatform"
 ];
 
 /**
